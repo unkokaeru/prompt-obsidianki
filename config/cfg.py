@@ -20,4 +20,4 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 ASSISTANT_ID = "asst_srYMhf0V7Rstyegnaqak6MLG"
 
 # Save location
-SAVE_LOCATION = Path(__file__).parent.parent / "notes"
+SAVE_LOCATION = "C:/Users/wills/Documents/GitHub/digital-garden/content/"
